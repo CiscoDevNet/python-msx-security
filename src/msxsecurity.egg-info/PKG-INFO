@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: msxsecurity
-Version: 0.1.0
+Version: 0.2.0
 Summary: A package to exchange an MSX access token for an MSX security context, to support implementation of RBAC and tenancy in RESTful APIs.
 Home-page: UNKNOWN
 Author: Cisco MSX
